@@ -4,7 +4,7 @@ on my-profile via gh
 
 stage           20 / cs undergrad
 role            backend / distributed systems
-langs           go / python / typescript
+langs           go 
 focus           distributed systems / backend engineering
 building        distributed storage / protocols / infrastructure
 ```
